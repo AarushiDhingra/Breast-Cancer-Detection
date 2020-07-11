@@ -1,7 +1,11 @@
 # Breast Cancer Detection
  This code detects whether a cancer is Benign or Malignant
+ 
  Data source : Original Wisconsin Breast Cancer Database
+ 
  Dataset source link : https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Original%29
+ 
+ 
  Characterstics :
  1.Data Set Characteristics:  Multivariate
  2.Number of Instances: 699
