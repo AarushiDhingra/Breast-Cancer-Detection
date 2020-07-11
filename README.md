@@ -17,7 +17,7 @@
 5. Number of Attributes: 10
 6. Date Donated : 1992-07-15
 7. Associated Tasks: Classification
-8. Missing Values? Yes
+8. Missing Values? No
 9. Number of Web Hits: 608181
  
  Attribute Information:
