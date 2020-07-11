@@ -1,5 +1,6 @@
 # Breast Cancer Detection
  This code detects whether a cancer is Benign or Malignant
+ ![](breast cancer detect.PNG)
  
  Data source : Original Wisconsin Breast Cancer Database
  
