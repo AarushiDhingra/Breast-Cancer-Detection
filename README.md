@@ -8,15 +8,15 @@
  
  Characterstics :
  
-1.Data Set Characteristics:  Multivariate
-2.Number of Instances: 699
-3.Area: Life
-4.Attribute Characteristics: Integer
-5.Number of Attributes: 10
-6.Date Donated : 1992-07-15
-7.Associated Tasks: Classification
-8.Missing Values? Yes
-9.Number of Web Hits: 608181
+1. Data Set Characteristics:  Multivariate
+2. Number of Instances: 699
+3. Area: Life
+4. Attribute Characteristics: Integer
+5. Number of Attributes: 10
+6. Date Donated : 1992-07-15
+7. Associated Tasks: Classification
+8. Missing Values? Yes
+9. Number of Web Hits: 608181
  
  Attribute Information:
 
